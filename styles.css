@@ -11,9 +11,9 @@ nav {
 	border-bottom: 2px solid orange;
 }
 
-ol {
+/* ol {
 	padding-left: 0;
-}
+} */
 
 .crumb {
 	margin-right: 2em;
@@ -34,7 +34,7 @@ input {
 }
 
 img {
-	max-width: 300px;
+	max-width: 200px;
 }
 
 [type="checkbox"] {
